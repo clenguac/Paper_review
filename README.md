@@ -1,0 +1,1 @@
+This dataset contains metadata from 255 articles, classified for a systematic review on the topic of fine-tuning and dataset curation strategies for large language models in agriculture and water resources.
